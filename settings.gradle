@@ -1,0 +1,3 @@
+rootProject.name = "My App Launcher"
+include ':app'
+include ':appsModule'
